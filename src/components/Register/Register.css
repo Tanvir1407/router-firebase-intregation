@@ -1,0 +1,22 @@
+.register{
+    margin-top: 150px;
+}
+.register-box{
+    background-color: aqua;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.register-box input {
+    padding: 10px ;
+    margin: 5px;
+    width: 350px;
+    
+}
+.btn{
+    padding: 10px 15px;
+    margin-top: 10px;
+    margin: 2px;
+}
